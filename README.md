@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 -----------------------------
 
 
-## about me:
+## About me:
 
 <!-- * ⚡ Here's my website ##[coming soon] -->
 
@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ⚡ I'm open to collaborating on back-end projects.
 
 <a href="https://twitter.com/EmmanuelZeddy" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/frontend_script?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/EmmanuelZeddy?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 
